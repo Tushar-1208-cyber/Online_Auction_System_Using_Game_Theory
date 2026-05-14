@@ -1,2 +1,17 @@
 node_modules/
 .env
+backend/auction.db
+backend/auction.db-shm
+backend/auction.db-wal
+backend/report_images/
+backend/gameTheory/
+backend/python/
+frontend/
+uploads/
+node_modules/
+dist/
+.env
+*.db
+*.db-shm
+*.db-wal
+public/
